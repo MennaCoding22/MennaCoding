@@ -86,24 +86,26 @@ display: inline-block;
     border-radius: 8px;
     background-color: #fff;
 }
-.add-course-container button {
     background-color: #d47a9e;
     color: white;
     border: none;
-    padding: 0.8;
+    padding: 0.8rem;
     width: 100%;
     margin-top: 1.5rem;
     border-radius: 8px;
     font-size: 1rem;
 }
-.contact-section {
-    width: 90%;
-    max-width: 600px;
-    margin: 2rem auto;
-    padding: 1.5rem;
+.contact-section form {
+    width: 100%;
 }
+.contact-section input,
+.contact-section textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+#table{
 
-table{
 width: 100%;
 background-color: white;
 border-radius: 12px;
