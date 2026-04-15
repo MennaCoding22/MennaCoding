@@ -97,10 +97,10 @@ display: inline-block;
     font-size: 1rem;
 }
 .contact-section {
-    max-width: 900px;
-    width: 100%;
-    margin: 0 auto;
-    padding: 2rem;
+    width: 90%;
+    max-width: 600px;
+    margin: 2rem auto;
+    padding: 1.5rem;
 }
 
 table{
